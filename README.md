@@ -1,5 +1,4 @@
-# Interview-Preparation
-Preparing for Interview - Tips
+# Preparing for Interview - Tips
 
 - [Amazon](https://www.amazon.jobs/de/landing_pages/interviewing-at-amazon)
 - [Google](https://careers.google.com/how-we-hire/)
